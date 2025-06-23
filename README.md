@@ -6,7 +6,7 @@ Developed an interactive Power BI dashboard analyzing Blinkit's sales data using
 3. Number of Items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold.
 # Chart's Requirements
-## [20:07, 23/06/2025] Aditya: 1. Total Sales by Fat Content:
+##  1. Total Sales by Fat Content:
 
 Objective: Analyze the impact of fat content on total sales.
 
